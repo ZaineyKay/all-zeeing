@@ -17,16 +17,15 @@ The Combat Sports Predictor leverages advanced machine learning algorithms to an
 
 ## ✨ Key Features
 
-- **Performance Analytics**: Comprehensive fighter statistics and performance metrics
-- **Predictive Modeling**: Machine learning algorithms for match outcome prediction
-- **Real-Time Updates**: Adjusts predictions based on late-breaking information
-- **Visualization Tools**: Interactive charts and graphs showing prediction confidence
-- **Historical Analysis**: Deep dive into past performance and prediction accuracy
+**Performance Analytics**: Comprehensive fighter statistics and performance metrics
+**Predictive Modeling**: Machine learning algorithms for match outcome prediction
+**Real-Time Updates**: Adjusts predictions based on late-breaking information
+**Visualization Tools**: Interactive charts and graphs showing prediction confidence
+**Historical Analysis**: Deep dive into past performance and prediction accuracy
 
 ## 🛠️ Technology Stack
-
-- **Backend**: Python 3.10, Flask, scikit-learn, pandas, numpy
-- **Frontend**: React 18.2.0, TypeScript, D3.js
-- **Machine Learning**: scikit-learn, XGBoost, custom prediction algorithms
-- **Data Sources**: Public sports databases, fighter statistics APIs
-- **Deployment**: Firebase Hosting, PythonAnywhere for ML backend
+ **Backend**: Python 3.10, Flask, scikit-learn, pandas, numpy
+**Frontend**: React 18.2.0, TypeScript, D3.js
+**Machine Learning**: scikit-learn, XGBoost, custom prediction algorithms
+ **Data Sources**: Public sports databases, fighter statistics APIs
+**Deployment**: Firebase Hosting, PythonAnywhere for ML backend
